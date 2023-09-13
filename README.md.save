@@ -7,4 +7,6 @@ This repo contains miscellaneous content for the secret algo.
 
 # Running on secret server
 
-This section will be updated soon... Stay tuned!
+There is Linux server located at crna.magija.rs. You can ssh into it by running `ssh dark0@crna.magija.rs` and typing passwod `im_dark0`
+
+You will find copy of this repository and `program.bin` inside of `dark0` users hom
